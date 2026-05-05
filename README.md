@@ -14,7 +14,7 @@ An NLP-based web application that analyzes resumes against job descriptions and 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * spaCy
@@ -24,7 +24,7 @@ An NLP-based web application that analyzes resumes against job descriptions and 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Text is extracted from resume and job description
 2. NLP preprocessing (tokenization, lemmatization, POS tagging)
@@ -34,14 +34,14 @@ An NLP-based web application that analyzes resumes against job descriptions and 
 
 ---
 
-## 📊 Output Example
+##  Output Example
 
 * Match Score: 78%
 * Missing Skills: Machine Learning, Docker, APIs
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/alish-lab/Resume-Analyzer.git
@@ -52,7 +52,7 @@ python app.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Improve semantic matching using transformer models
 * Add downloadable report (PDF)
@@ -70,7 +70,7 @@ python app.py
 ### 2. Add live link (after deployment)
 
 ```
-🌐 Live Demo: https://your-app.onrender.com
+ Live Demo: https://your-app.onrender.com
 ```
 
 
