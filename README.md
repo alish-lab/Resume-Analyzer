@@ -61,11 +61,8 @@ python app.py
 
 ### 1. Output Screenshot
 
-```md
-<img width="1195" height="761" alt="image" src="https://github.com/user-attachments/assets/f7e31cea-2770-4285-b17a-b3f7ce27cd7b" />
-<img width="1000" height="556" alt="image" src="https://github.com/user-attachments/assets/f105d467-940e-463a-8e27-5e18a818cd8c" />
+<img width="1207" height="787" alt="res" src="https://github.com/user-attachments/assets/7782fa79-406d-40ff-bb52-a7aa1c3d414e" />
 
-```
 
 ### 2. Add live link (after deployment)
 
